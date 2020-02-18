@@ -1,0 +1,19 @@
+yarn run v1.22.0
+$ webpack
+
+Insufficient number of arguments or no entry found.
+Alternatively, run 'webpack(-cli) --help' 
+for usage info.
+
+Hash: 9213d49836f66abda915
+Version: webpack 4.41.6
+Time: 48ms
+Built at: 02/18/2020 9:12:29 AM
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/
+
+ERROR in Entry module not found: Error: Can't resolve './src' in 'C:\Users\Renate\projects'
+error Command failed with exit code 2.    
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
