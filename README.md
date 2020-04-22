@@ -6,7 +6,7 @@ Hi,
 
 My name is Renate van Kempen and in this repo, I'll put all codes and files from my JavaScript learning journey. 
 
-My goal is to help me understand both the front-end side (JavaScript) as well as the back-end side (Python) for usage in DataScience.
+My goal is to better understand both the front-end side (JavaScript) as well as the back-end side (Python) for usage in DataScience.
 
 Feel free to help me out if you see any improvements. 
 
